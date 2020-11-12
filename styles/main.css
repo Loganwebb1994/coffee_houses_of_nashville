@@ -1,0 +1,23 @@
+.list {
+    display: flex;
+    flex-basis: 16%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-shrink: 1;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center; /* Center align the text in the boxes */
+}
+.pageHeader {
+    margin: 0.5em;
+    text-align: center; /* Center align the text in the boxes */
+}
+.shop{
+    border: 1px dotted black;
+    size: 8em;
+    margin-bottom: 10px;
+    flex: 4;
+}
+
+
+
